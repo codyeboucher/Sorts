@@ -1,1 +1,1 @@
-Sorts
+Simple integer sorting algorithm implementations.
