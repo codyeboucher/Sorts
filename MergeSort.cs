@@ -43,7 +43,7 @@ namespace Sorts
 
             for(int i = 0; i < result.Length; i++)
             {
-                nums[start + i] = result[i];
+                nums[start++] = result[i];
             }
         }       
     }
